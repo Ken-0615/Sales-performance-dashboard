@@ -16,3 +16,14 @@ This project analyzes retail sales data to uncover trends in revenue, profit, pr
 - SQL
 - Power BI
 - Git & GitHub
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Business Intelligence
+- KPI Development
+- Dashboard Design
+- Git Version Control
+  
